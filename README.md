@@ -1,6 +1,7 @@
 <div align="center">
 
-# ☄️ Galactic Journey Game ☄️
+# Galactic Journey Game
+# ☄️🪐🛸🚀🌏🌋
 
 ### Explore the Universe. Survive the Journey.
 
