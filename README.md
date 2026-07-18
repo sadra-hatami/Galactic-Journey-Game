@@ -81,9 +81,16 @@ https://sadra-hatami.github.io/Galactic-Journey-Game/
 
 # 📬 Contact
 
-**Developer:** Sadra Hatami
+**Developer:**
 
-📧 Email: [sadra.hatami.1732@gmail.com](mailto:sadra.hatami.1732@gmail.com)
+### Sadra Hatami
+
+📧 [Email](mailto:sadra.hatami.1732@gmail.com)
+
+
+🌐 [GitHub](https://github.com/sadra-hatami)
+
+
 
 ---
 
